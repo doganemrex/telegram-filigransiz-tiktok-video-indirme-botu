@@ -10,8 +10,10 @@ TOKENİNİZİ SİTE URL YAZAN YERE SİTE LİNKİNİZİ GİRİNİZ "Webhook was s
 
 BOTUNUZA /tiktok videolinki YAZARAK VİDEOYU FİLİGRANSIZ OLARAK SİZE GERİ GÖNDERMESİNİ SAGLAYABİLİRSİNİZ.
 <br>
+
+
 🔻 AYAR LİNKİ 🔻<br>
 https://api.telegram.org/botTOKEN/setWebhook?url=https://siteurl/bot.php
 
-
+ÖRNEK :
 ![tiktokbotu](https://user-images.githubusercontent.com/88912764/129429328-1bc530bc-586f-4227-b77e-3bcea65b8d9a.PNG)
