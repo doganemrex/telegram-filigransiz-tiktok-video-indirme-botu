@@ -15,7 +15,7 @@ if ((strpos($message, "!tiktok") === 0)||(strpos($message, "/tiktok") === 0)){
   $URL = substr($message, 8);
   $curl = curl_init();
   curl_setopt_array($curl, array(
-    CURLOPT_URL => "https://dogan.in/url.php?q=$URL",
+    CURLOPT_URL => "http://dogan.advertizing.us/api.php?q=$URL",
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_MAXREDIRS => 10,
     CURLOPT_TIMEOUT => 30,
